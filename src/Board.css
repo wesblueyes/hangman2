@@ -1,0 +1,24 @@
+
+@import 'https://fonts.googleapis.com/css?family=Lekton';
+button {
+  padding: 5px 10px;
+  border-radius: 50%;
+  margin: 5px;
+  font-size: 20px;
+  font-family: 'Lekton', sans-serif;
+}
+
+.Board {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.character-class {
+  width: 450px;
+}
+
+h2 {
+  font-family: 'Lekton', sans-serif;
+  text-transform: uppercase;
+}
