@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import Letter from './Letter.js'
-import './Word.css'
+import Letter from './Letter'
+import '../styles/Word.css'
 
 class Word extends Component {
 

@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 // import logo from './logo.svg';
-import './App.css';
-import Word from './Word.js'
-import Board from './Board.js';
+import '../styles/App.css';
+import Word from './Word'
+import Board from './Board';
 
 class App extends Component {
   constructor () {

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './Letter.css'
+import '../styles/Letter.css'
 
 class Letter extends Component {
   // There's actually a cleaner way to work with class names like this
